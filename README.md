@@ -7,12 +7,18 @@ What it does right now:
 
 
 shows all apps in paged view mode (no app drawer is there) 
+
+
+
 shows app preview in folder displaying 9 icons instead of 4
 
 Features I need help adding: 
 
 
 Icon pack support (Top on the list to be added!) 
+
+
+
 The ability to enable app drawer mode in the settings of the launcher (I kept launcher 3's code in the project so this should be easy to implement!)
 
 I am open to any types of feedback and suggestions!
